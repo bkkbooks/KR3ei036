@@ -1,0 +1,525 @@
+canonical_identifier: bkk:krp/KR3ei036/v1
+canonical_location: https://kanripo.org/bkk/KR3ei036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 女丹合編選註
+  identifiers:
+    krp: KR3ei036
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei036.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei036_000.yaml, hash: 'sha256:4bdae40bfc1fa2aa5e05abf9f90ca6f89a2a35f34878e0099ad863acd3b3d426'}
+  - {seq: 10, filename: KR3ei036_010.yaml, hash: 'sha256:79c1c5444b82d36d03a75ca257c8230f032170ea7fd691cc0316575beae5d859'}
+  - {seq: 0, filename: KR3ei036_000.yaml, hash: 'sha256:4bdae40bfc1fa2aa5e05abf9f90ca6f89a2a35f34878e0099ad863acd3b3d426'}
+  - {seq: 1, filename: KR3ei036_001.yaml, hash: 'sha256:b929bb74ea5f41d03e5b31f4ddda93984a920e12a2c7dafd4870230540a1ef55'}
+  - {seq: 3, filename: KR3ei036_003.yaml, hash: 'sha256:070536c7f8346af2970f525511df624f4538c6fc64e0100cf20970dbb63a233a'}
+  - {seq: 0, filename: KR3ei036_000.yaml, hash: 'sha256:4bdae40bfc1fa2aa5e05abf9f90ca6f89a2a35f34878e0099ad863acd3b3d426'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei036_000.markers.yaml, hash: 'sha256:47a9644de988aecdd5d67d3570fd5dd06b20feadeb0ac762b443492e84d5c0f8'}
+  - {seq: 10, role: markers, filename: assets/KR3ei036_010.markers.yaml, hash: 'sha256:f490e2df9757b4fa1181b038ab383d7757bbf3163f755728788cc4c065de8918'}
+  - {seq: 1, role: markers, filename: assets/KR3ei036_001.markers.yaml, hash: 'sha256:067c5ae84c728e9f449e1499d89e4ad0be34db853da03c86739facb2e0b9c93b'}
+  - {seq: 3, role: markers, filename: assets/KR3ei036_003.markers.yaml, hash: 'sha256:0b74101b347822cc2e7cf76c179660e939e6f115bec7947fd31dd60d692153f7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 2166
+  label: 通俗序
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5345
+  label: 壺天性果女丹十則一卷
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d2
+    span:
+    - body
+    - 10
+    - 821
+  label: 第一則養真化氣
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d3
+    span:
+    - body
+    - 821
+    - 1341
+  label: 第二則九轉煉形
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d4
+    span:
+    - body
+    - 1341
+    - 1942
+  label: 第三則運用火符
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d5
+    span:
+    - body
+    - 1942
+    - 2462
+  label: 第四則默運胎息
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d6
+    span:
+    - body
+    - 2462
+    - 2944
+  label: 第五則廣立功行
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d7
+    span:
+    - body
+    - 2944
+    - 3743
+  label: 第六則志堅行持
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d8
+    span:
+    - body
+    - 3743
+    - 4204
+  label: 第七則調養元神
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d9
+    span:
+    - body
+    - 4204
+    - 4572
+  label: 第八則移神出殼
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d10
+    span:
+    - body
+    - 4572
+    - 5016
+  label: 第九則待度飛昇
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ei036_jc_010-d3d11
+    span:
+    - body
+    - 5016
+    - 5345
+  label: 第十則了道成真
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d4.h1s1
+    span:
+    - front
+    - 0
+    - 369
+  label: 女金丹序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei036_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3618
+  label: 上卷戒規
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei036_jc_001-d5d2
+    span:
+    - body
+    - 4
+    - 387
+  label: 立志入道
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei036_jc_001-d5d3
+    span:
+    - body
+    - 387
+    - 1359
+  label: 入門戒規十二條
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei036_jc_001-d5d4
+    span:
+    - body
+    - 1359
+    - 3618
+  label: 附考
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5364
+  label: 下卷口訣
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d2
+    span:
+    - body
+    - 4
+    - 227
+  label: 收心
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d3
+    span:
+    - body
+    - 227
+    - 544
+  label: 養性
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d4
+    span:
+    - body
+    - 544
+    - 906
+  label: 養氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d5
+    span:
+    - body
+    - 906
+    - 1198
+  label: 凝神
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d6
+    span:
+    - body
+    - 1198
+    - 1408
+  label: 三命
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d7
+    span:
+    - body
+    - 1408
+    - 1535
+  label: 氣穴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d8
+    span:
+    - body
+    - 1535
+    - 2015
+  label: 知時
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d9
+    span:
+    - body
+    - 2015
+    - 2270
+  label: 斬龍
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d10
+    span:
+    - body
+    - 2270
+    - 2586
+  label: 形隱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d11
+    span:
+    - body
+    - 2586
+    - 2634
+  label: 求丹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d12
+    span:
+    - body
+    - 2634
+    - 2872
+  label: 煉己
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d13
+    span:
+    - body
+    - 2872
+    - 2991
+  label: 順逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d14
+    span:
+    - body
+    - 2991
+    - 3201
+  label: 丹生
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d15
+    span:
+    - body
+    - 3201
+    - 3397
+  label: 採藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d16
+    span:
+    - body
+    - 3397
+    - 3574
+  label: 升元
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d17
+    span:
+    - body
+    - 3574
+    - 3703
+  label: 合丹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d18
+    span:
+    - body
+    - 3703
+    - 4019
+  label: 火候
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d19
+    span:
+    - body
+    - 4019
+    - 4272
+  label: 溫養
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d20
+    span:
+    - body
+    - 4272
+    - 4476
+  label: 胎息
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d21
+    span:
+    - body
+    - 4476
+    - 4677
+  label: 度數
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d22
+    span:
+    - body
+    - 4677
+    - 4975
+  label: 脫胎
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d23
+    span:
+    - body
+    - 4975
+    - 5052
+  label: 乳哺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d24
+    span:
+    - body
+    - 5052
+    - 5209
+  label: 面壁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei036_jc_003-d6d25
+    span:
+    - body
+    - 5209
+    - 5364
+  label: 沖舉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 278
+  label: 樵陽經女工修煉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d8.h1s1
+    span:
+    - body
+    - 278
+    - 2896
+  label: 女功煉己還丹圖說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d8d4
+    span:
+    - body
+    - 286
+    - 1549
+  label: 一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d8d5
+    span:
+    - body
+    - 1549
+    - 2213
+  label: 二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d8d6
+    span:
+    - body
+    - 2213
+    - 2500
+  label: 三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d8d7
+    span:
+    - body
+    - 2500
+    - 2896
+  label: 四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei036_jc_000-d9.h1s1
+    span:
+    - body
+    - 2896
+    - 3476
+  label: 女丹要言
+  type: section
+  level: 1
+hash: sha256:ccf9e302f389c0ac4ef970bf7351a14ce84d51a8ccb2d233340b5fd85fa2bc2e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
